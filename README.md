@@ -143,4 +143,4 @@ I am taking a fundamentals-first approach and building practical experience thro
 
 - **GitHub:** https://github.com/emad-elshabrawy
 - **Codeforces:** https://codeforces.com/profile/el-sebeiti
-- - **TryHackMe:** https://tryhackme.com/p/Emad.
+- **TryHackMe:** https://tryhackme.com/p/Emad.
